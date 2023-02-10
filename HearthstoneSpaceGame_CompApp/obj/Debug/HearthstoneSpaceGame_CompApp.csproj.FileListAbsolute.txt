@@ -1,0 +1,20 @@
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.csprojAssemblyReference.cache
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.HearthstoneCompanionApp.resources
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.Properties.Resources.resources
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.csproj.GenerateResource.cache
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.csproj.CoreCompileInputs.cache
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\bin\Debug\HearthstoneSpaceGame_CompApp.exe.config
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\bin\Debug\HearthstoneSpaceGame_CompApp.exe
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\bin\Debug\HearthstoneSpaceGame_CompApp.pdb
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.exe
+C:\Users\noeti\source\repos\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.pdb
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\bin\Debug\HearthstoneSpaceGame_CompApp.exe.config
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\bin\Debug\HearthstoneSpaceGame_CompApp.exe
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\bin\Debug\HearthstoneSpaceGame_CompApp.pdb
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.csprojAssemblyReference.cache
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.HearthstoneCompanionApp.resources
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.Properties.Resources.resources
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.csproj.GenerateResource.cache
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.csproj.CoreCompileInputs.cache
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.exe
+C:\Users\Deez Nuts\Documents\Visual Studio 2019\Projects\HearthstoneSpaceGame_CompApp\HearthstoneSpaceGame_CompApp\obj\Debug\HearthstoneSpaceGame_CompApp.pdb
